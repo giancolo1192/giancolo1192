@@ -6,7 +6,7 @@
 
 ### 📫 How to reach me:
 - Email: giancolombi@gmail.com
-- [LinkedIn] (https://www.linkedin.com/in/gcolombi/)
+- (LinkedIn) [https://www.linkedin.com/in/gcolombi/]
 
 <!--
 **giancolo1192/giancolo1192** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
