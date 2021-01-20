@@ -1,4 +1,11 @@
 ### Hi there 👋
+# 🔭 I’m currently working on:
+- Ensemble Approaches
+- Databricks
+- Azure ADF Pipelines
+
+# 📫 How to reach me:
+- Email: giancolombi@gmail.com
 
 <!--
 **giancolo1192/giancolo1192** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
