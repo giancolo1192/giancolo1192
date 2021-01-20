@@ -1,10 +1,10 @@
-### Hi there 👋
-# 🔭 I’m currently working on:
+# Hi there 👋
+### 🔭 I’m currently working on:
 - Ensemble Approaches
 - Databricks
 - Azure ADF Pipelines
 
-# 📫 How to reach me:
+### 📫 How to reach me:
 - Email: giancolombi@gmail.com
 
 <!--
